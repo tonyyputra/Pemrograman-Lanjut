@@ -1,5 +1,4 @@
 package projectClass;
-import java.util.*;
 
 public class clsRobotTriangle {
     public double base;

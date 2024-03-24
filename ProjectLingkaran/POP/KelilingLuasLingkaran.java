@@ -1,3 +1,4 @@
+package POP;
 import java.util.Scanner;
 
 public class KelilingLuasLingkaran {
@@ -16,6 +17,8 @@ public class KelilingLuasLingkaran {
 
         System.out.printf("Luas Lingkaran = %.2f cm%n" , luas);
         System.out.printf("Keliling Lingkaran = %.2f cm%n" ,keliling);
+
+        input.close();
     }
 }
 

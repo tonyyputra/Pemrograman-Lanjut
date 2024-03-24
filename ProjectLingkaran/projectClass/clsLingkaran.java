@@ -1,5 +1,4 @@
-package Kelas;
-
+package projectClass;
 public class clsLingkaran {
     // atribute
     public int jari;
