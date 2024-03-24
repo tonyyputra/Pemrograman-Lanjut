@@ -1,4 +1,8 @@
+package projectObject;
+
 import java.util.Scanner;
+
+import projectClass.clsKaryawan;
 
 public class objKaryawan {
 public static void main(String[] args) {

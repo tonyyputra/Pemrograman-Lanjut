@@ -1,3 +1,5 @@
+package projectObject;
+
 import java.util.Scanner;
 
 import projectClass.clsMobil;

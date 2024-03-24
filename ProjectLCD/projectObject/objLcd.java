@@ -1,3 +1,5 @@
+package projectObject;
+
 public class objLcd {
     String Status;
     int Volume;

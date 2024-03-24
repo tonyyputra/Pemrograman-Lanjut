@@ -1,3 +1,5 @@
+package projectClass;
+
 public class clsKaryawan {
         private String nama;
         private String alamat;

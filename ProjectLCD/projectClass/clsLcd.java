@@ -1,3 +1,7 @@
+package projectClass;
+
+import projectObject.objLcd;
+
 public class clsLcd {
         public static void main(String[] args) {
             objLcd lcd1 = new objLcd();

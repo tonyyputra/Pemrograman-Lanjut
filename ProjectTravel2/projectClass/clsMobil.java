@@ -1,4 +1,5 @@
 package projectClass;
+
 public class clsMobil {
     private String noPlat;
     private String merekMobil;
