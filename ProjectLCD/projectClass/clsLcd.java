@@ -7,12 +7,12 @@ public class clsLcd {
     String Cable;
     int cc;
 
-    public String turnOn(){
-        return Status = "On";
-    }
-
     public String turnOff(){
         return Status = "Off";
+    }
+
+    public String turnOn(){
+        return Status = "On";
     }
 
     public String Freeze(){
