@@ -7,12 +7,12 @@ public class clsLcd {
     String Cable;
     int cc;
 
-    public String turnOff(){
-        return Status = "Off";
-    }
-
     public String turnOn(){
         return Status = "On";
+    }
+
+    public String turnOff(){
+        return Status = "Off";
     }
 
     public String Freeze(){
@@ -63,7 +63,7 @@ public class clsLcd {
 
     public void Cek(){
         if(cc < 1){
-            cc += 3;
+            cc += 4;
         }
     }
 
