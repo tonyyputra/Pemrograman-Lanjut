@@ -70,12 +70,15 @@ public class clsLcd {
     public void setCable(){
         switch(cc){
             case 1:
-                Cable = "HDMI";
+                Cable = "VGA";
             break;
             case 2:
-                Cable = "DIV";
+                Cable = "DVI";
             break;
             case 3:
+                Cable = "HDMI";
+            break;
+            case 4:
                 Cable = "Display Port";
             break;
         }
