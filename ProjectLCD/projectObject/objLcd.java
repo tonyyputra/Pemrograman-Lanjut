@@ -7,12 +7,10 @@ public class objLcd {
             clsLcd lcd1 = new clsLcd();
             lcd1.turnOff();
             lcd1.turnOn();
-            lcd1.cableDown();
-            lcd1.cableDown();
-            lcd1.setVolume(50);
+            lcd1.setVolume(52);
             lcd1.volumeDown();
             lcd1.Freeze();
-            lcd1.setBrightness(20);
+            lcd1.setBrightness(40);
             lcd1.brightnessDown(); 
             lcd1.brightnessDown();
             lcd1.cableUp();

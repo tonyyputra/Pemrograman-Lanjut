@@ -83,10 +83,10 @@ public class clsLcd {
 
     public void displayMessage(){
         System.out.println("============== LCD ==============");
-        System.out.println("Status LCD saat ini     : " + Status);
-        System.out.println("Volume LCD saat ini     : " + Volume);
-        System.out.println("Brightness LCD saat ini : " + Brightness);
-        System.out.println("Cable LCD saat ini      : " + Cable);
+        System.out.println("LCD Status : " + Status);
+        System.out.println("Volume     : " + Volume);
+        System.out.println("Brightness : " + Brightness);
+        System.out.println("Cable      : " + Cable);
     }
 
 }
